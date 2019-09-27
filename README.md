@@ -1,4 +1,4 @@
-# aglaecwif / Grendel Mom
+# aglaecwif :: grendel's Mom
 
 > Grendel's mother (Old English: Grendles mōðor) is one of three antagonists in the anonymous Old English poem Beowulf (c. 700–1000 AD). The other antagonists are Grendel and the dragon, all aligned in opposition to the hero Beowulf. She is introduced in lines 1258b to 1259a as: "Grendles modor/ides, aglæcwif".
 
